@@ -1,0 +1,380 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "google/comprehensive-rust",
+          "description": "This is the Rust course used by the Android team at Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T08:02:33Z",
+            "owner": "google",
+            "repo": "comprehensive-rust",
+            "stars": 33299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheat Sheet",
+          "description": "A single-page Rust resource for people who like high information density.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-04T20:44:17Z",
+            "owner": "ralfbiedert",
+            "repo": "cheats.rs",
+            "stars": 4557
+          }
+        }
+      ],
+      "title": "Rust Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bevy",
+          "description": "A refreshingly simple data-driven game engine built in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T16:04:54Z",
+            "owner": "bevyengine",
+            "repo": "bevy",
+            "stars": 47618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fyrox",
+          "description": "A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T11:21:56Z",
+            "owner": "FyroxEngine",
+            "repo": "Fyrox",
+            "stars": 9502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piston",
+          "description": "A modular game engine written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-21T23:30:18Z",
+            "owner": "PistonDevelopers",
+            "repo": "piston",
+            "stars": 4698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggez",
+          "description": "Rust library to create a Good Game Easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-22T10:32:08Z",
+            "owner": "ggez",
+            "repo": "ggez",
+            "stars": 4681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ambient",
+          "description": "The multiplayer game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-07T09:48:53Z",
+            "owner": "AmbientRun",
+            "repo": "Ambient",
+            "stars": 3905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "godot-rust",
+          "description": "Rust bindings for Godot 3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-12-31T11:42:26Z",
+            "owner": "godot-rust",
+            "repo": "gdnative",
+            "stars": 3625
+          }
+        }
+      ],
+      "title": "Game Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wgpu",
+          "description": "Safe and portable GPU abstraction in Rust, implementing WebGPU API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T07:12:19Z",
+            "owner": "gfx-rs",
+            "repo": "wgpu",
+            "stars": 17781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-gpu",
+          "description": "Making Rust a first-class language and ecosystem for GPU shaders.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-10-31T14:58:57Z",
+            "owner": "EmbarkStudios",
+            "repo": "rust-gpu",
+            "stars": 7568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vulkano",
+          "description": "Safe and rich Rust wrapper around the Vulkan API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T08:29:06Z",
+            "owner": "vulkano-rs",
+            "repo": "vulkano",
+            "stars": 5140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lyon",
+          "description": "2D graphics rendering on the GPU in rust using path tessellation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-03T20:53:07Z",
+            "owner": "nical",
+            "repo": "lyon",
+            "stars": 2595
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rapier",
+          "description": "Rapier is a set of 2D and 3D physics engines for games, animation, and robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T14:55:27Z",
+            "owner": "dimforge",
+            "repo": "rapier",
+            "stars": 5636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bevy_xpbd",
+          "description": "2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:00:47Z",
+            "owner": "avianphysics",
+            "repo": "avian",
+            "stars": 3124
+          }
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "veloren",
+          "description": "An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:38:44Z",
+            "owner": "veloren",
+            "repo": "veloren",
+            "stars": 7472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jumpy",
+          "description": "Tactical 2D shooter in fishy pixels style. Made with Rust-lang and Bevy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-30T15:52:41Z",
+            "owner": "fishfolk",
+            "repo": "jumpy",
+            "stars": 1874
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bevy Engine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ecosystem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-rust",
+          "description": "A curated list of Rust code and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:48:11Z",
+            "owner": "rust-unofficial",
+            "repo": "awesome-rust",
+            "stars": 58822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "games",
+          "description": "A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-13T20:06:46Z",
+            "owner": "leereilly",
+            "repo": "games",
+            "stars": 24931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magictools",
+          "description": "A list of Game Development resources to make magic happen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-10T17:51:51Z",
+            "owner": "ellisonleao",
+            "repo": "magictools",
+            "stars": 17122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GameNetworkingResources",
+          "description": "A Curated List of Game Network Programming Resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T19:50:44Z",
+            "owner": "0xFA11",
+            "repo": "MultiplayerNetworkingResources",
+            "stars": 8631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-learn-gamedev",
+          "description": "A curated collection of game development learning resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-01T23:12:11Z",
+            "owner": "dawdle-deer",
+            "repo": "awesome-learn-gamedev",
+            "stars": 3504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-gamedev",
+          "description": "A collection of free software and free culture resources for making amazing games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T19:10:59Z",
+            "owner": "Calinou",
+            "repo": "awesome-gamedev",
+            "stars": 3097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-one-person-games",
+          "description": "A curated list of successul games, made (quite) entirely by a lone gamedev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T21:14:21Z",
+            "owner": "Yonaba",
+            "repo": "awesome-one-person-games",
+            "stars": 420
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:10:50.137Z",
+    "original_repository": "NightsWatchGames/awesome-rust-gamedev",
+    "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",
+    "enhanced_repository": "enhansome/enhansome-rust-gamedev",
+    "enhanced_repository_description": null,
+    "title": "awesome-rust-gamedev with stars"
+  }
+}
