@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T08:02:33Z",
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33299
+            "stars": 33308
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:04:54Z",
+            "last_commit": "2026-08-14T01:47:47Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47618
+            "stars": 47622
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T11:21:56Z",
+            "last_commit": "2026-08-14T08:57:01Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9502
+            "stars": 9503
           }
         },
         {
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T07:12:19Z",
+            "last_commit": "2026-08-14T17:08:07Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17781
+            "stars": 17785
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-07-30T08:29:06Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5140
+            "stars": 5141
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-13T14:55:27Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5636
+            "stars": 5637
           }
         },
         {
@@ -211,7 +211,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T18:00:47Z",
+            "last_commit": "2026-08-13T21:42:44Z",
             "owner": "avianphysics",
             "repo": "avian",
             "stars": 3124
@@ -231,7 +231,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T08:38:44Z",
+            "last_commit": "2026-08-13T22:24:13Z",
             "owner": "veloren",
             "repo": "veloren",
             "stars": 7472
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:48:11Z",
+            "last_commit": "2026-08-14T17:56:17Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58822
+            "stars": 58834
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24931
+            "stars": 24932
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-10T17:51:51Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17122
+            "stars": 17124
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8631
+            "stars": 8633
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3504
+            "stars": 3505
           }
         },
         {
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:10:50.137Z",
+    "last_updated": "2026-08-14T18:08:55.043Z",
     "original_repository": "NightsWatchGames/awesome-rust-gamedev",
     "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",
     "enhanced_repository": "enhansome/enhansome-rust-gamedev",
