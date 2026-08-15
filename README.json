@@ -28,7 +28,7 @@
             "last_commit": "2026-05-04T20:44:17Z",
             "owner": "ralfbiedert",
             "repo": "cheats.rs",
-            "stars": 4557
+            "stars": 4558
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-14T01:47:47Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47622
+            "stars": 47639
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:57:01Z",
+            "last_commit": "2026-08-15T16:18:00Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9503
+            "stars": 9505
           }
         },
         {
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:08:07Z",
+            "last_commit": "2026-08-15T15:29:43Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17785
+            "stars": 17799
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-07-30T08:29:06Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5141
+            "stars": 5137
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-13T14:55:27Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5637
+            "stars": 5640
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-13T21:42:44Z",
             "owner": "avianphysics",
             "repo": "avian",
-            "stars": 3124
+            "stars": 3126
           }
         }
       ],
@@ -231,10 +231,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T22:24:13Z",
+            "last_commit": "2026-08-15T15:12:49Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7472
+            "stars": 7475
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-01-30T15:52:41Z",
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1874
+            "stars": 1875
           }
         }
       ],
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-14T17:56:17Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58834
+            "stars": 58840
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-10T17:51:51Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17124
+            "stars": 17129
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8633
+            "stars": 8635
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3505
+            "stars": 3508
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3097
+            "stars": 3101
           }
         },
         {
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:08:55.043Z",
+    "last_updated": "2026-08-15T17:38:47.378Z",
     "original_repository": "NightsWatchGames/awesome-rust-gamedev",
     "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",
     "enhanced_repository": "enhansome/enhansome-rust-gamedev",
