@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580836813,
             "language": "Rust",
             "last_commit": "2026-08-05T08:02:33Z",
             "owner": "google",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157261368,
             "language": "Rust",
             "last_commit": "2026-05-04T20:44:17Z",
             "owner": "ralfbiedert",
@@ -35,7 +37,7 @@
       "title": "Rust Programming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234798675,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:06:52Z",
+            "last_commit": "2026-08-19T01:41:16Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47682
+            "stars": 47701
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178597005,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:52:40Z",
+            "last_commit": "2026-08-18T18:26:18Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9512
+            "stars": 9514
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19102672,
             "language": "Rust",
             "last_commit": "2026-08-18T09:48:29Z",
             "owner": "PistonDevelopers",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50728157,
             "language": "Rust",
             "last_commit": "2026-06-22T10:32:08Z",
             "owner": "ggez",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579990612,
             "language": "Rust",
             "last_commit": "2025-01-07T09:48:53Z",
             "owner": "AmbientRun",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 87864150,
             "language": "Rust",
             "last_commit": "2025-12-31T11:42:26Z",
             "owner": "godot-rust",
@@ -125,7 +133,7 @@
       "title": "Game Engines"
     },
     {
-      "description": "",
+      "description": "learning materials",
       "items": [
         {
           "node_type": "item",
@@ -134,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:18:30Z",
+            "last_commit": "2026-08-19T12:26:55Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17817
+            "stars": 17822
           }
         },
         {
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 282179811,
             "language": "Rust",
             "last_commit": "2025-10-31T14:58:57Z",
             "owner": "EmbarkStudios",
@@ -162,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38607895,
             "language": "Rust",
             "last_commit": "2026-07-30T08:29:06Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5139
+            "stars": 5140
           }
         },
         {
@@ -176,18 +187,49 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59888340,
             "language": "Rust",
             "last_commit": "2026-05-03T20:53:07Z",
             "owner": "nical",
             "repo": "lyon",
             "stars": 2596
           }
+        },
+        {
+          "node_type": "item",
+          "title": "webgpufundamentals",
+          "description": "This is a series of lessons or tutorials about webgpu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138106422,
+            "language": "HTML",
+            "last_commit": "2026-07-12T03:26:44Z",
+            "owner": "webgpu",
+            "repo": "webgpufundamentals",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tour-of-wgsl",
+          "description": "This repo contains a simple tour of WGSL static site generator. The purpose is to provide an introduction to WGSL through examples which can be modified and run by the user.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 623069363,
+            "language": "TypeScript",
+            "last_commit": "2024-10-11T18:03:27Z",
+            "owner": "google",
+            "repo": "tour-of-wgsl",
+            "stars": 154
+          }
         }
       ],
       "title": "Graphics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -196,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290312103,
             "language": "Rust",
             "last_commit": "2026-08-16T20:23:45Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5654
+            "stars": 5657
           }
         },
         {
@@ -210,18 +253,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497570733,
             "language": "Rust",
             "last_commit": "2026-08-13T21:42:44Z",
             "owner": "avianphysics",
             "repo": "avian",
-            "stars": 3130
+            "stars": 3134
           }
         }
       ],
       "title": "Physics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -230,11 +274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-17T22:24:13Z",
+            "last_commit": "2026-08-19T10:28:35Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7480
+            "stars": 7482
           }
         },
         {
@@ -244,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379429942,
             "language": "Rust",
             "last_commit": "2026-01-30T15:52:41Z",
             "owner": "fishfolk",
@@ -255,17 +301,7 @@
       "title": "Games"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Bevy Engine"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Ecosystem"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -274,11 +310,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21938243,
             "language": "Rust",
             "last_commit": "2026-08-18T15:53:34Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58884
+            "stars": 58896
           }
         },
         {
@@ -288,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3112748,
             "language": null,
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
@@ -302,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21958186,
             "language": "Markdown",
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17145
+            "stars": 17150
           }
         },
         {
@@ -316,11 +355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118740023,
             "language": "C",
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8643
+            "stars": 8645
           }
         },
         {
@@ -330,11 +370,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524595482,
             "language": null,
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3513
+            "stars": 3514
           }
         },
         {
@@ -344,11 +385,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41116605,
             "language": null,
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3103
+            "stars": 3105
           }
         },
         {
@@ -358,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88600878,
             "language": null,
             "last_commit": "2026-04-05T21:14:21Z",
             "owner": "Yonaba",
@@ -370,8 +413,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:47:06.868Z",
+    "last_updated": "2026-08-19T12:50:22.855Z",
     "original_repository": "NightsWatchGames/awesome-rust-gamedev",
+    "original_repository_id": 581773809,
     "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",
     "enhanced_repository": "enhansome/enhansome-rust-gamedev",
     "enhanced_repository_description": null,
