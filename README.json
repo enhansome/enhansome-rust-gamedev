@@ -30,7 +30,7 @@
             "last_commit": "2026-05-04T20:44:17Z",
             "owner": "ralfbiedert",
             "repo": "cheats.rs",
-            "stars": 4560
+            "stars": 4561
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 234798675,
             "language": "Rust",
-            "last_commit": "2026-08-20T17:25:50Z",
+            "last_commit": "2026-08-21T00:13:05Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47716
+            "stars": 47760
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-20T16:12:30Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9512
+            "stars": 9514
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-06-22T10:32:08Z",
             "owner": "ggez",
             "repo": "ggez",
-            "stars": 4679
+            "stars": 4680
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2025-01-07T09:48:53Z",
             "owner": "AmbientRun",
             "repo": "Ambient",
-            "stars": 3906
+            "stars": 3907
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-20T13:27:53Z",
+            "last_commit": "2026-08-21T16:13:26Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17822
+            "stars": 17829
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-05-03T20:53:07Z",
             "owner": "nical",
             "repo": "lyon",
-            "stars": 2596
+            "stars": 2593
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-16T20:23:45Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5662
+            "stars": 5670
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-13T21:42:44Z",
             "owner": "avianphysics",
             "repo": "avian",
-            "stars": 3142
+            "stars": 3143
           }
         }
       ],
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-20T08:39:58Z",
+            "last_commit": "2026-08-20T22:14:04Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7483
+            "stars": 7490
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-20T08:15:22Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58903
+            "stars": 58920
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24936
+            "stars": 24937
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17164
+            "stars": 17173
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3519
+            "stars": 3521
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:48:37.085Z",
+    "last_updated": "2026-08-21T17:48:59.999Z",
     "original_repository": "NightsWatchGames/awesome-rust-gamedev",
     "original_repository_id": 581773809,
     "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",
