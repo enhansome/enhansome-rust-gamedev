@@ -48,10 +48,10 @@
             "archived": false,
             "id": 234798675,
             "language": "Rust",
-            "last_commit": "2026-08-23T23:09:41Z",
+            "last_commit": "2026-08-25T04:17:22Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47824
+            "stars": 47831
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 50728157,
             "language": "Rust",
-            "last_commit": "2026-06-22T10:32:08Z",
+            "last_commit": "2026-08-24T21:20:24Z",
             "owner": "ggez",
             "repo": "ggez",
             "stars": 4680
@@ -111,7 +111,7 @@
             "last_commit": "2025-01-07T09:48:53Z",
             "owner": "AmbientRun",
             "repo": "Ambient",
-            "stars": 3908
+            "stars": 3909
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:58:42Z",
+            "last_commit": "2026-08-25T02:29:28Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17855
+            "stars": 17860
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-16T20:23:45Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5678
+            "stars": 5679
           }
         },
         {
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:12:12Z",
+            "last_commit": "2026-08-24T22:13:58Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7498
+            "stars": 7499
           }
         },
         {
@@ -314,10 +314,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-23T23:09:41Z",
+                "last_commit": "2026-08-25T04:17:22Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47824
+                "stars": 47831
               }
             }
           ],
@@ -478,10 +478,10 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-23T23:09:41Z",
+                "last_commit": "2026-08-25T04:17:22Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47824
+                "stars": 47831
               }
             }
           ],
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-24T07:28:27Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58959
+            "stars": 58963
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24943
+            "stars": 24944
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17192
+            "stars": 17194
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8658
+            "stars": 8661
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3526
+            "stars": 3528
           }
         },
         {
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:50:03.671Z",
+    "last_updated": "2026-08-25T06:31:06.627Z",
     "original_repository": "NightsWatchGames/awesome-rust-gamedev",
     "original_repository_id": 581773809,
     "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",

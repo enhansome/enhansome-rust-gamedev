@@ -34,16 +34,16 @@ A collection about rust gamedev resources. PRs welcome.
 
 ## Game Engines
 
-* [bevy](https://github.com/bevyengine/bevy) ⭐ 47,824 | 🐛 3,431 | 🌐 Rust | 📅 2026-08-23: A refreshingly simple data-driven game engine built in Rust. ![stars](https://img.shields.io/github/stars/bevyengine/bevy) ![crates.io version](https://img.shields.io/crates/v/bevy.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy.svg)
+* [bevy](https://github.com/bevyengine/bevy) ⭐ 47,831 | 🐛 3,416 | 🌐 Rust | 📅 2026-08-25: A refreshingly simple data-driven game engine built in Rust. ![stars](https://img.shields.io/github/stars/bevyengine/bevy) ![crates.io version](https://img.shields.io/crates/v/bevy.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy.svg)
 * [fyrox](https://github.com/FyroxEngine/Fyrox) ⭐ 9,524 | 🐛 59 | 🌐 Rust | 📅 2026-08-23: A feature-rich, production-ready, general purpose 2D/3D game engine written in Rust with a scene editor. ![stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox) ![crates.io version](https://img.shields.io/crates/v/fyrox.svg) ![crates.io downloads](https://img.shields.io/crates/d/fyrox.svg)
 * [piston](https://github.com/PistonDevelopers/piston) ⭐ 4,698 | 🐛 36 | 🌐 Rust | 📅 2026-08-22: A modular game engine written in Rust. ![stars](https://img.shields.io/github/stars/PistonDevelopers/piston) ![crates.io version](https://img.shields.io/crates/v/piston.svg) ![crates.io downloads](https://img.shields.io/crates/d/piston.svg)
-* [ggez](https://github.com/ggez/ggez) ⭐ 4,680 | 🐛 72 | 🌐 Rust | 📅 2026-06-22: Rust library to create a Good Game Easily. ![stars](https://img.shields.io/github/stars/ggez/ggez) ![crates.io version](https://img.shields.io/crates/v/ggez.svg) ![crates.io downloads](https://img.shields.io/crates/d/ggez.svg)
-* [Ambient](https://github.com/AmbientRun/Ambient) ⭐ 3,908 | 🐛 281 | 🌐 Rust | 📅 2025-01-07: The multiplayer game engine. ![stars](https://img.shields.io/github/stars/AmbientRun/Ambient) ![crates.io version](https://img.shields.io/crates/v/ambient_api.svg) ![crates.io downloads](https://img.shields.io/crates/d/ambient_api.svg)
+* [ggez](https://github.com/ggez/ggez) ⭐ 4,680 | 🐛 71 | 🌐 Rust | 📅 2026-08-24: Rust library to create a Good Game Easily. ![stars](https://img.shields.io/github/stars/ggez/ggez) ![crates.io version](https://img.shields.io/crates/v/ggez.svg) ![crates.io downloads](https://img.shields.io/crates/d/ggez.svg)
+* [Ambient](https://github.com/AmbientRun/Ambient) ⭐ 3,909 | 🐛 281 | 🌐 Rust | 📅 2025-01-07: The multiplayer game engine. ![stars](https://img.shields.io/github/stars/AmbientRun/Ambient) ![crates.io version](https://img.shields.io/crates/v/ambient_api.svg) ![crates.io downloads](https://img.shields.io/crates/d/ambient_api.svg)
 * [godot-rust](https://github.com/godot-rust/gdnative) ⚠️ Archived: Rust bindings for Godot 3. ![stars](https://img.shields.io/github/stars/godot-rust/gdnative) ![crates.io version](https://img.shields.io/crates/v/gdnative.svg) ![crates.io downloads](https://img.shields.io/crates/d/gdnative.svg)
 
 ## Graphics
 
-* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 17,855 | 🐛 1,265 | 🌐 Rust | 📅 2026-08-24: Safe and portable GPU abstraction in Rust, implementing WebGPU API. ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu) ![crates.io version](https://img.shields.io/crates/v/wgpu.svg) ![crates.io downloads](https://img.shields.io/crates/d/wgpu.svg)
+* [wgpu](https://github.com/gfx-rs/wgpu) ⭐ 17,860 | 🐛 1,266 | 🌐 Rust | 📅 2026-08-25: Safe and portable GPU abstraction in Rust, implementing WebGPU API. ![stars](https://img.shields.io/github/stars/gfx-rs/wgpu) ![crates.io version](https://img.shields.io/crates/v/wgpu.svg) ![crates.io downloads](https://img.shields.io/crates/d/wgpu.svg)
 * [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) ⚠️ Archived: Making Rust a first-class language and ecosystem for GPU shaders. ![stars](https://img.shields.io/github/stars/EmbarkStudios/rust-gpu)
 * [vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,142 | 🐛 89 | 🌐 Rust | 📅 2026-07-30: Safe and rich Rust wrapper around the Vulkan API. ![stars](https://img.shields.io/github/stars/vulkano-rs/vulkano) ![crates.io version](https://img.shields.io/crates/v/vulkano.svg) ![crates.io downloads](https://img.shields.io/crates/d/vulkano.svg)
 * [lyon](https://github.com/nical/lyon) ⭐ 2,592 | 🐛 18 | 🌐 Rust | 📅 2026-05-03: 2D graphics rendering on the GPU in rust using path tessellation. ![stars](https://img.shields.io/github/stars/nical/lyon) ![crates.io version](https://img.shields.io/crates/v/lyon.svg) ![crates.io downloads](https://img.shields.io/crates/d/lyon.svg)
@@ -56,12 +56,12 @@ learning materials
 
 ## Physics
 
-* [rapier](https://github.com/dimforge/rapier) ⭐ 5,678 | 🐛 50 | 🌐 Rust | 📅 2026-08-16: Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. ![stars](https://img.shields.io/github/stars/dimforge/rapier) ![crates.io version](https://img.shields.io/crates/v/rapier3d.svg) ![crates.io downloads](https://img.shields.io/crates/d/rapier3d.svg)
+* [rapier](https://github.com/dimforge/rapier) ⭐ 5,679 | 🐛 50 | 🌐 Rust | 📅 2026-08-16: Rapier is a set of 2D and 3D physics engines for games, animation, and robotics. ![stars](https://img.shields.io/github/stars/dimforge/rapier) ![crates.io version](https://img.shields.io/crates/v/rapier3d.svg) ![crates.io downloads](https://img.shields.io/crates/d/rapier3d.svg)
 * [bevy\_xpbd](https://github.com/Jondolf/bevy_xpbd) ⭐ 3,147 | 🐛 198 | 🌐 Rust | 📅 2026-08-13: 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy. ![stars](https://img.shields.io/github/stars/Jondolf/bevy_xpbd) ![crates.io version](https://img.shields.io/crates/v/bevy_xpbd_2d.svg) ![crates.io downloads](https://img.shields.io/crates/d/bevy_xpbd_2d.svg)
 
 ## Games
 
-* [veloren](https://github.com/veloren/veloren) ⭐ 7,498 | 🐛 4 | 🌐 Rust | 📅 2026-08-23: An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ![stars](https://img.shields.io/github/stars/veloren/veloren)
+* [veloren](https://github.com/veloren/veloren) ⭐ 7,499 | 🐛 4 | 🌐 Rust | 📅 2026-08-24: An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ![stars](https://img.shields.io/github/stars/veloren/veloren)
 * [jumpy](https://github.com/fishfolk/jumpy) ⭐ 1,875 | 🐛 80 | 🌐 Rust | 📅 2026-01-30: Tactical 2D shooter in fishy pixels style. Made with Rust-lang and Bevy. ![stars](https://img.shields.io/github/stars/fishfolk/jumpy)
 
 ## Bevy Engine
@@ -75,7 +75,7 @@ learning materials
 
 ### Tutorials
 
-* [Official examples](https://github.com/bevyengine/bevy/tree/latest/examples#examples) ⭐ 47,824 | 🐛 3,431 | 🌐 Rust | 📅 2026-08-23
+* [Official examples](https://github.com/bevyengine/bevy/tree/latest/examples#examples) ⭐ 47,831 | 🐛 3,416 | 🌐 Rust | 📅 2026-08-25
 * [Creating a Snake Clone in Rust, with Bevy](https://mbuffett.com/posts/bevy-snake-tutorial/)
 * [Platformer in Bevy](https://youtube.com/playlist?list=PL6uRoaCCw7GMujF_6PtzvkrZBlB_ZKWyZ)
 * [Extreme Bevy: Making a p2p web game with rust and rollback netcode](https://johanhelsing.studio/posts/extreme-bevy)
@@ -96,7 +96,7 @@ learning materials
 
 ### Communities
 
-* [Github Discussions](https://github.com/bevyengine/bevy/discussions) ⭐ 47,824 | 🐛 3,431 | 🌐 Rust | 📅 2026-08-23
+* [Github Discussions](https://github.com/bevyengine/bevy/discussions) ⭐ 47,831 | 🐛 3,416 | 🌐 Rust | 📅 2026-08-25
 * [Discord](https://discord.gg/bevy)
 * [Reddit](https://www.reddit.com/r/bevy)
 
@@ -117,14 +117,14 @@ learning materials
 
 ## Other Awesome Lists
 
-* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,959 | 🐛 7 | 🌐 Rust | 📅 2026-08-24: A curated list of Rust code and resources.
+* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,963 | 🐛 7 | 🌐 Rust | 📅 2026-08-24: A curated list of Rust code and resources.
 * [games](https://github.com/leereilly/games) ⚠️ Archived: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,192 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17: A list of Game Development resources to make magic happen.
-* [GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) ⭐ 8,658 | 🐛 2 | 🌐 C | 📅 2026-07-29: A Curated List of Game Network Programming Resources.
-* [awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) ⭐ 3,526 | 🐛 3 | 📅 2026-06-01: A curated collection of game development learning resources.
+* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,194 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17: A list of Game Development resources to make magic happen.
+* [GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) ⭐ 8,661 | 🐛 2 | 🌐 C | 📅 2026-07-29: A Curated List of Game Network Programming Resources.
+* [awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev) ⭐ 3,528 | 🐛 3 | 📅 2026-06-01: A curated collection of game development learning resources.
 * [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,110 | 🐛 16 | 📅 2026-07-07: A collection of free software and free culture resources for making amazing games.
 * [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) ⭐ 420 | 🐛 3 | 📅 2026-04-05: A curated list of successul games, made (quite) entirely by a lone gamedev.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
