@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T21:23:21Z",
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33328
+            "stars": 33329
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-27T00:36:18Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47898
+            "stars": 47918
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 178597005,
             "language": "Rust",
-            "last_commit": "2026-08-23T14:42:19Z",
+            "last_commit": "2026-08-27T19:33:03Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9528
+            "stars": 9529
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:18:42Z",
+            "last_commit": "2026-08-27T22:17:01Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17875
+            "stars": 17878
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-26T12:50:26Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5143
+            "stars": 5144
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-16T20:23:45Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5684
+            "stars": 5687
           }
         },
         {
@@ -276,7 +276,7 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:30:48Z",
+            "last_commit": "2026-08-27T23:22:38Z",
             "owner": "veloren",
             "repo": "veloren",
             "stars": 7504
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-27T00:36:18Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47898
+                "stars": 47918
               }
             }
           ],
@@ -339,7 +339,7 @@
                 "last_commit": "2026-08-21T13:03:30Z",
                 "owner": "vladbat00",
                 "repo": "bevy_egui",
-                "stars": 1406
+                "stars": 1407
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2026-08-27T00:36:18Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47898
+                "stars": 47918
               }
             }
           ],
@@ -504,10 +504,10 @@
             "archived": false,
             "id": 21938243,
             "language": "Rust",
-            "last_commit": "2026-08-24T07:28:27Z",
+            "last_commit": "2026-08-27T18:15:02Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58992
+            "stars": 59007
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24944
+            "stars": 24942
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17204
+            "stars": 17208
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-27T10:58:50Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8668
+            "stars": 8670
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3529
+            "stars": 3532
           }
         },
         {
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:31.620Z",
+    "last_updated": "2026-08-28T01:30:59.414Z",
     "original_repository_info": {
       "archived": false,
       "id": 581773809,
