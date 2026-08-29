@@ -15,8 +15,9 @@
             "last_commit": "2026-08-25T21:23:21Z",
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33329
-          }
+            "stars": 33331
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ralfbiedert",
             "repo": "cheats.rs",
             "stars": 4561
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         }
       ],
       "title": "Rust Programming"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 234798675,
             "language": "Rust",
-            "last_commit": "2026-08-27T00:36:18Z",
+            "last_commit": "2026-08-28T21:49:49Z",
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47918
-          }
+            "stars": 47943
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 178597005,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:33:03Z",
+            "last_commit": "2026-08-28T19:51:48Z",
             "owner": "FyroxEngine",
             "repo": "Fyrox",
             "stars": 9529
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "PistonDevelopers",
             "repo": "piston",
             "stars": 4699
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-24T21:20:24Z",
             "owner": "ggez",
             "repo": "ggez",
-            "stars": 4680
-          }
+            "stars": 4681
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "AmbientRun",
             "repo": "Ambient",
             "stars": 3909
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "godot-rust",
             "repo": "gdnative",
             "stars": 3624
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         }
       ],
       "title": "Game Engines"
@@ -144,11 +152,12 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:17:01Z",
+            "last_commit": "2026-08-29T00:37:31Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17878
-          }
+            "stars": 17885
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "EmbarkStudios",
             "repo": "rust-gpu",
             "stars": 7568
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2026-08-26T12:50:26Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5144
-          }
+            "stars": 5145
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "nical",
             "repo": "lyon",
             "stars": 2594
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "webgpu",
             "repo": "webgpufundamentals",
             "stars": 1026
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "google",
             "repo": "tour-of-wgsl",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         }
       ],
       "title": "Graphics"
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 290312103,
             "language": "Rust",
-            "last_commit": "2026-08-16T20:23:45Z",
+            "last_commit": "2026-08-28T15:29:38Z",
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5687
-          }
+            "stars": 5693
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -258,8 +273,9 @@
             "last_commit": "2026-08-13T21:42:44Z",
             "owner": "avianphysics",
             "repo": "avian",
-            "stars": 3151
-          }
+            "stars": 3153
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         }
       ],
       "title": "Physics"
@@ -276,11 +292,12 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:22:38Z",
+            "last_commit": "2026-08-28T22:29:35Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7504
-          }
+            "stars": 7509
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "fishfolk",
             "repo": "jumpy",
             "stars": 1876
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         }
       ],
       "title": "Games"
@@ -314,11 +332,12 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-27T00:36:18Z",
+                "last_commit": "2026-08-28T21:49:49Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47918
-              }
+                "stars": 47943
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             }
           ],
           "description": null,
@@ -340,7 +359,8 @@
                 "owner": "vladbat00",
                 "repo": "bevy_egui",
                 "stars": 1407
-              }
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -355,7 +375,8 @@
                 "owner": "dimforge",
                 "repo": "bevy_rapier",
                 "stars": 1582
-              }
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -370,7 +391,8 @@
                 "owner": "djeedai",
                 "repo": "bevy_tweening",
                 "stars": 567
-              }
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -385,7 +407,8 @@
                 "owner": "lucaspoffo",
                 "repo": "renet",
                 "stars": 945
-              }
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -400,7 +423,8 @@
                 "owner": "Leafwing-Studios",
                 "repo": "leafwing-input-manager",
                 "stars": 958
-              }
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -415,7 +439,8 @@
                 "owner": "bonsairobo",
                 "repo": "smooth-bevy-cameras",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -429,8 +454,9 @@
                 "last_commit": "2026-07-04T23:32:30Z",
                 "owner": "StarArawn",
                 "repo": "bevy_ecs_tilemap",
-                "stars": 1273
-              }
+                "stars": 1274
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -445,7 +471,8 @@
                 "owner": "djeedai",
                 "repo": "bevy_hanabi",
                 "stars": 1394
-              }
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             },
             {
               "node_type": "item",
@@ -459,8 +486,9 @@
                 "last_commit": "2026-06-20T11:58:45Z",
                 "owner": "jakobhellermann",
                 "repo": "bevy-inspector-egui",
-                "stars": 1637
-              }
+                "stars": 1639
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             }
           ],
           "description": null,
@@ -478,11 +506,12 @@
                 "archived": false,
                 "id": 234798675,
                 "language": "Rust",
-                "last_commit": "2026-08-27T00:36:18Z",
+                "last_commit": "2026-08-28T21:49:49Z",
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47918
-              }
+                "stars": 47943
+              },
+              "first_seen": "2026-08-29T00:59:17.890Z"
             }
           ],
           "description": null,
@@ -504,11 +533,12 @@
             "archived": false,
             "id": 21938243,
             "language": "Rust",
-            "last_commit": "2026-08-27T18:15:02Z",
+            "last_commit": "2026-08-28T11:12:13Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59007
-          }
+            "stars": 59030
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -522,8 +552,9 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24942
-          }
+            "stars": 24943
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -534,11 +565,12 @@
             "archived": false,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-25T12:55:42Z",
+            "last_commit": "2026-08-28T17:26:39Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17208
-          }
+            "stars": 17212
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -552,8 +584,9 @@
             "last_commit": "2026-08-27T10:58:50Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8670
-          }
+            "stars": 8671
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -568,7 +601,8 @@
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
             "stars": 3532
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -582,8 +616,9 @@
             "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3114
-          }
+            "stars": 3116
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         },
         {
           "node_type": "item",
@@ -598,14 +633,15 @@
             "owner": "Yonaba",
             "repo": "awesome-one-person-games",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-29T00:59:17.890Z"
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:30:59.414Z",
+    "last_updated": "2026-08-29T00:59:17.890Z",
     "original_repository_info": {
       "archived": false,
       "id": 581773809,
