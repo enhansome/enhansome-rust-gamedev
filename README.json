@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+            "homepage": "https://google.github.io/comprehensive-rust/",
             "id": 580836813,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:23:21Z",
+            "open_issues": 171,
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33331
+            "stars": 33331,
+            "topics": [
+              "android",
+              "classroom",
+              "course",
+              "google",
+              "guide",
+              "rust",
+              "training",
+              "training-materials"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -26,12 +40,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust Language Cheat Sheet - https://cheats.rs",
+            "homepage": "https://cheats.rs",
             "id": 157261368,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-05-04T20:44:17Z",
+            "open_issues": 3,
             "owner": "ralfbiedert",
             "repo": "cheats.rs",
-            "stars": 4561
+            "stars": 4561,
+            "topics": [
+              "cheatsheet",
+              "language",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         }
@@ -48,12 +71,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A refreshingly simple data-driven game engine built in Rust",
+            "homepage": "https://bevy.org",
             "id": 234798675,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:49:49Z",
+            "open_issues": 3453,
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 47943
+            "stars": 47948,
+            "topics": [
+              "bevy",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "open-source",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -64,12 +99,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D and 2D game engine written in Rust",
+            "homepage": "https://fyrox.rs",
             "id": 178597005,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:51:48Z",
+            "open_issues": 59,
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9529
+            "stars": 9529,
+            "topics": [
+              "3d",
+              "3d-engine",
+              "engine",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gui",
+              "rendering",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -80,12 +131,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular game engine written in Rust",
+            "homepage": "https://www.piston.rs",
             "id": 19102672,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:44:37Z",
+            "open_issues": 36,
             "owner": "PistonDevelopers",
             "repo": "piston",
-            "stars": 4699
+            "stars": 4699,
+            "topics": [
+              "modular-game-engine",
+              "piston",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -96,12 +156,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust library to create a Good Game Easily",
+            "homepage": "http://ggez.rs",
             "id": 50728157,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:20:24Z",
+            "open_issues": 72,
             "owner": "ggez",
             "repo": "ggez",
-            "stars": 4681
+            "stars": 4681,
+            "topics": [
+              "crates",
+              "engine",
+              "game",
+              "game-development",
+              "game-engine",
+              "game-frameworks",
+              "gameengine",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -112,12 +186,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The multiplayer game engine",
+            "homepage": "https://ambient.run",
             "id": 579990612,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-07T09:48:53Z",
+            "open_issues": 281,
             "owner": "AmbientRun",
             "repo": "Ambient",
-            "stars": 3909
+            "stars": 3909,
+            "topics": [
+              "3d-graphics",
+              "game-development",
+              "game-engine",
+              "game-engine-3d",
+              "gamedev",
+              "multiplayer",
+              "rust",
+              "wasm",
+              "webassembly",
+              "wgpu"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -128,12 +218,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rust bindings for Godot 3",
+            "homepage": "https://godot-rust.github.io",
             "id": 87864150,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-31T11:42:26Z",
+            "open_issues": 0,
             "owner": "godot-rust",
             "repo": "gdnative",
-            "stars": 3624
+            "stars": 3624,
+            "topics": [
+              "game-development",
+              "gamedev",
+              "godot",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         }
@@ -150,12 +250,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform, safe, pure-Rust graphics API.",
+            "homepage": "https://wgpu.rs",
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-29T00:37:31Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:24:11Z",
+            "open_issues": 1253,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17885
+            "stars": 17887,
+            "topics": [
+              "d3d12",
+              "gpu",
+              "hacktoberfest",
+              "metal",
+              "opengl",
+              "rust",
+              "vulkan",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -166,12 +280,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧",
+            "homepage": "https://shader.rs",
             "id": 282179811,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-31T14:58:57Z",
+            "open_issues": 107,
             "owner": "EmbarkStudios",
             "repo": "rust-gpu",
-            "stars": 7568
+            "stars": 7568,
+            "topics": [
+              "gpu-programming",
+              "rust",
+              "shaders"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -182,12 +305,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe and rich Rust wrapper around the Vulkan API",
+            "homepage": null,
             "id": 38607895,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:50:26Z",
+            "open_issues": 89,
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5145
+            "stars": 5145,
+            "topics": [
+              "graphics-programming",
+              "rust",
+              "spir-v",
+              "vulkan",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -198,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D graphics rendering on the GPU in rust using path tessellation.",
+            "homepage": null,
             "id": 59888340,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-03T20:53:07Z",
+            "open_issues": 19,
             "owner": "nical",
             "repo": "lyon",
-            "stars": 2594
+            "stars": 2595,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -214,12 +353,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://webgpufundamentals.org",
             "id": 138106422,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-22T00:40:26Z",
+            "open_issues": 8,
             "owner": "webgpu",
             "repo": "webgpufundamentals",
-            "stars": 1026
+            "stars": 1026,
+            "topics": [
+              "graphics",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -230,12 +377,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://google.github.io/tour-of-wgsl/",
             "id": 623069363,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-10-11T18:03:27Z",
+            "open_issues": 17,
             "owner": "google",
             "repo": "tour-of-wgsl",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "graphics",
+              "webgpu",
+              "wgsl"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         }
@@ -252,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D and 3D physics engines focused on performance.",
+            "homepage": "https://rapier.rs",
             "id": 290312103,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:29:38Z",
+            "open_issues": 51,
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5693
+            "stars": 5693,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -268,12 +429,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECS-driven 2D and 3D physics engine for the Bevy game engine.",
+            "homepage": "https://crates.io/crates/avian3d",
             "id": 497570733,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T21:42:44Z",
+            "open_issues": 200,
             "owner": "avianphysics",
             "repo": "avian",
-            "stars": 3153
+            "stars": 3153,
+            "topics": [
+              "2d",
+              "3d",
+              "bevy",
+              "game-development",
+              "gamedev",
+              "physics",
+              "physics-engine",
+              "rust",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         }
@@ -290,12 +466,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",
+            "homepage": "https://veloren.net",
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-28T22:29:35Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T01:16:29Z",
+            "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7509
+            "stars": 7509,
+            "topics": [
+              "3d",
+              "cube",
+              "cubeworld",
+              "game",
+              "gfx-rs",
+              "multiplayer",
+              "procedural-generation",
+              "rpg",
+              "rust",
+              "terrain",
+              "voxel"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -306,12 +499,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶",
+            "homepage": "https://fishfolk.org/games/jumpy/",
             "id": 379429942,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-30T15:52:41Z",
+            "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1876
+            "stars": 1876,
+            "topics": [
+              "bevy",
+              "editor",
+              "fish-game",
+              "game",
+              "lua",
+              "modding",
+              "multiplayer",
+              "pixel-art",
+              "pixelart",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         }
@@ -330,12 +539,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A refreshingly simple data-driven game engine built in Rust",
+                "homepage": "https://bevy.org",
                 "id": 234798675,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:49:49Z",
+                "open_issues": 3453,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47943
+                "stars": 47948,
+                "topics": [
+                  "bevy",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "open-source",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             }
@@ -353,12 +574,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This crate provides an Egui integration for the Bevy game engine. 🇺🇦 Please support the Ukrainian army: https://savelife.in.ua/en/",
+                "homepage": null,
                 "id": 328363870,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-21T13:03:30Z",
+                "open_issues": 34,
                 "owner": "vladbat00",
                 "repo": "bevy_egui",
-                "stars": 1407
+                "stars": 1407,
+                "topics": [
+                  "bevy",
+                  "bevy-engine",
+                  "egui"
+                ]
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -369,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Rapier plugin for the Bevy game engine.",
+                "homepage": "https://rapier.rs",
                 "id": 289978721,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-08T21:37:01Z",
+                "open_issues": 150,
                 "owner": "dimforge",
                 "repo": "bevy_rapier",
-                "stars": 1582
+                "stars": 1582,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -385,12 +620,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tweening animation plugin for the Bevy game engine.",
+                "homepage": null,
                 "id": 452808982,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-28T20:17:48Z",
+                "open_issues": 22,
                 "owner": "djeedai",
                 "repo": "bevy_tweening",
-                "stars": 567
+                "stars": 567,
+                "topics": [
+                  "animation",
+                  "bevy",
+                  "bevy-plugin",
+                  "rust",
+                  "tween",
+                  "tweening",
+                  "tweening-library"
+                ]
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -401,12 +649,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server/Client network library for multiplayer games with authentication and connection management made with Rust",
+                "homepage": null,
                 "id": 285869483,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-20T19:23:59Z",
+                "open_issues": 23,
                 "owner": "lucaspoffo",
                 "repo": "renet",
-                "stars": 945
+                "stars": 945,
+                "topics": [
+                  "gamedev",
+                  "network",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -417,12 +674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A straightforward stateful input manager for the Bevy game engine.",
+                "homepage": null,
                 "id": 441520029,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T06:53:41Z",
+                "open_issues": 39,
                 "owner": "Leafwing-Studios",
                 "repo": "leafwing-input-manager",
-                "stars": 958
+                "stars": 958,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -433,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bevy camera controllers with buttery, exponential smoothing.",
+                "homepage": null,
                 "id": 375913453,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-02-02T19:23:10Z",
+                "open_issues": 8,
                 "owner": "bonsairobo",
                 "repo": "smooth-bevy-cameras",
-                "stars": 315
+                "stars": 315,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -449,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tilemap rendering crate for bevy which is more ECS friendly.",
+                "homepage": null,
                 "id": 362545284,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-04T23:32:30Z",
+                "open_issues": 87,
                 "owner": "StarArawn",
                 "repo": "bevy_ecs_tilemap",
-                "stars": 1274
+                "stars": 1274,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -465,12 +737,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎆 Hanabi — a GPU particle system plugin for the Bevy game engine.",
+                "homepage": null,
                 "id": 452809222,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T19:57:18Z",
+                "open_issues": 45,
                 "owner": "djeedai",
                 "repo": "bevy_hanabi",
-                "stars": 1394
+                "stars": 1394,
+                "topics": [
+                  "bevy",
+                  "bevy-plugin",
+                  "effects",
+                  "gamedev",
+                  "gpu-particles",
+                  "particle",
+                  "particles",
+                  "rust",
+                  "vfx"
+                ]
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             },
@@ -481,12 +768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspector plugin for the bevy game engine",
+                "homepage": null,
                 "id": 330603763,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-20T11:58:45Z",
+                "open_issues": 46,
                 "owner": "jakobhellermann",
                 "repo": "bevy-inspector-egui",
-                "stars": 1639
+                "stars": 1639,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             }
@@ -504,12 +796,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A refreshingly simple data-driven game engine built in Rust",
+                "homepage": "https://bevy.org",
                 "id": 234798675,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:49:49Z",
+                "open_issues": 3453,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 47943
+                "stars": 47948,
+                "topics": [
+                  "bevy",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "open-source",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
             }
@@ -531,12 +835,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Rust code and resources.",
+            "homepage": null,
             "id": 21938243,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T11:12:13Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59030
+            "stars": 59031,
+            "topics": [
+              "awesome",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -547,12 +859,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+            "homepage": null,
             "id": 3112748,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-13T20:06:46Z",
+            "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24943
+            "stars": 24943,
+            "topics": [
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "games",
+              "html5-games"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -563,12 +887,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-28T17:26:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -579,12 +925,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Multiplayer Game Network Programming Resources",
+            "homepage": "https://multiplayernetworking.com/",
             "id": 118740023,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-27T10:58:50Z",
+            "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8671
+            "stars": 8671,
+            "topics": [
+              "cpp",
+              "csharp",
+              "game",
+              "game-development",
+              "game-networking",
+              "game-programming",
+              "gamedev",
+              "godot",
+              "godot-engine",
+              "godotengine",
+              "multiplayer",
+              "netcode",
+              "network",
+              "network-programming",
+              "networking",
+              "unity",
+              "unity3d",
+              "unreal-engine",
+              "unreal-engine-4",
+              "unreal-engine-5"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -595,12 +967,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of game development learning resources",
+            "homepage": null,
             "id": 524595482,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-01T23:12:11Z",
+            "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3532
+            "stars": 3532,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "education",
+              "game-development",
+              "gamedev",
+              "learn",
+              "learning",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -611,12 +997,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
+            "homepage": "https://notabug.org/Calinou/awesome-gamedev",
             "id": 41116605,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
+            "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3116
+            "stars": 3116,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "game",
+              "game-development",
+              "game-programming"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         },
@@ -627,12 +1024,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: A curated list of successul games, made (quite) entirely by a lone gamedev.",
+            "homepage": null,
             "id": 88600878,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-05T21:14:21Z",
+            "open_issues": 3,
             "owner": "Yonaba",
             "repo": "awesome-one-person-games",
-            "stars": 420
+            "stars": 420,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "gamedev",
+              "games",
+              "gaming",
+              "indiedev",
+              "retrogaming",
+              "video-game"
+            ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
         }
@@ -641,15 +1052,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:59:17.890Z",
+    "last_updated": "2026-08-29T04:56:41.405Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection about rust gamedev resources.",
+      "homepage": null,
       "id": 581773809,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-10-16T02:20:18Z",
+      "open_issues": 1,
       "owner": "NightsWatchGames",
       "repo": "awesome-rust-gamedev",
-      "stars": 109
+      "stars": 109,
+      "topics": [
+        "awesome-list",
+        "game-engine",
+        "gamedev",
+        "rust"
+      ]
     },
     "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",
     "enhanced_repository": "enhansome/enhansome-rust-gamedev",
