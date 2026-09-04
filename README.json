@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T14:16:51Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33341,
+            "stars": 33346,
             "topics": [
               "android",
               "classroom",
@@ -76,11 +76,11 @@
             "id": 234798675,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T22:59:49Z",
-            "open_issues": 3437,
+            "last_commit": "2026-09-04T17:31:15Z",
+            "open_issues": 3438,
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 48029,
+            "stars": 48043,
             "topics": [
               "bevy",
               "game-development",
@@ -104,11 +104,11 @@
             "id": 178597005,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-03T16:23:10Z",
+            "last_commit": "2026-09-04T17:02:38Z",
             "open_issues": 59,
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9538,
+            "stars": 9541,
             "topics": [
               "3d",
               "3d-engine",
@@ -195,7 +195,7 @@
             "open_issues": 281,
             "owner": "AmbientRun",
             "repo": "Ambient",
-            "stars": 3908,
+            "stars": 3909,
             "topics": [
               "3d-graphics",
               "game-development",
@@ -236,6 +236,40 @@
             ]
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
+        },
+        {
+          "node_type": "item",
+          "title": "EmberEngine",
+          "description": "A wgpu game engine around a deterministic simulation; ships with four playable multiplayer web games (WebGPU, WebGL2 fallback).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A from-scratch Rust + wgpu game engine: deterministic 60 Hz lockstep netcode, one wasm bundle, playable browser games - arena shooter, Fire Racer, Four Kings.",
+            "homepage": "https://endersgamesdev.github.io/EmberEngine/",
+            "id": 1351197855,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2026-09-04T19:29:12Z",
+            "open_issues": 2,
+            "owner": "EndersGamesDev",
+            "repo": "EmberEngine",
+            "stars": 1,
+            "topics": [
+              "browser-game",
+              "deterministic-simulation",
+              "fps",
+              "game",
+              "game-engine",
+              "indie-game",
+              "multiplayer",
+              "online",
+              "rust",
+              "webassembly",
+              "webgl",
+              "wgpu"
+            ]
+          },
+          "first_seen": "2026-09-04T19:40:01.039Z"
         }
       ],
       "title": "Game Engines"
@@ -255,11 +289,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T19:17:23Z",
-            "open_issues": 1251,
+            "last_commit": "2026-09-04T16:35:55Z",
+            "open_issues": 1252,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17925,
+            "stars": 17933,
             "topics": [
               "d3d12",
               "gpu",
@@ -314,7 +348,7 @@
             "open_issues": 87,
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5148,
+            "stars": 5147,
             "topics": [
               "graphics-programming",
               "rust",
@@ -341,7 +375,7 @@
             "open_issues": 19,
             "owner": "nical",
             "repo": "lyon",
-            "stars": 2596,
+            "stars": 2597,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
@@ -362,7 +396,7 @@
             "open_issues": 8,
             "owner": "webgpu",
             "repo": "webgpufundamentals",
-            "stars": 1032,
+            "stars": 1033,
             "topics": [
               "graphics",
               "webgpu"
@@ -414,7 +448,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:29:38Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "dimforge",
             "repo": "rapier",
             "stars": 5712,
@@ -438,7 +472,7 @@
             "open_issues": 203,
             "owner": "avianphysics",
             "repo": "avian",
-            "stars": 3160,
+            "stars": 3162,
             "topics": [
               "2d",
               "3d",
@@ -471,11 +505,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T08:15:31Z",
+            "last_commit": "2026-09-03T22:14:00Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7533,
+            "stars": 7534,
             "topics": [
               "3d",
               "cube",
@@ -544,11 +578,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T22:59:49Z",
-                "open_issues": 3437,
+                "last_commit": "2026-09-04T17:31:15Z",
+                "open_issues": 3438,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48029,
+                "stars": 48043,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -658,7 +692,7 @@
                 "open_issues": 23,
                 "owner": "lucaspoffo",
                 "repo": "renet",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "gamedev",
                   "network",
@@ -725,7 +759,7 @@
                 "open_issues": 87,
                 "owner": "StarArawn",
                 "repo": "bevy_ecs_tilemap",
-                "stars": 1277,
+                "stars": 1278,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
@@ -746,7 +780,7 @@
                 "open_issues": 46,
                 "owner": "djeedai",
                 "repo": "bevy_hanabi",
-                "stars": 1400,
+                "stars": 1399,
                 "topics": [
                   "bevy",
                   "bevy-plugin",
@@ -801,11 +835,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T22:59:49Z",
-                "open_issues": 3437,
+                "last_commit": "2026-09-04T17:31:15Z",
+                "open_issues": 3438,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48029,
+                "stars": 48043,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -841,10 +875,10 @@
             "language": "Rust",
             "license": "CC0-1.0",
             "last_commit": "2026-09-03T13:37:02Z",
-            "open_issues": 8,
+            "open_issues": 11,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59159,
+            "stars": 59187,
             "topics": [
               "awesome",
               "rust"
@@ -868,7 +902,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24942,
+            "stars": 24945,
             "topics": [
               "game",
               "game-development",
@@ -896,7 +930,7 @@
             "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17243,
+            "stars": 17250,
             "topics": [
               "art",
               "awesome",
@@ -931,10 +965,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-08-27T10:58:50Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8674,
+            "stars": 8676,
             "topics": [
               "cpp",
               "csharp",
@@ -976,7 +1010,7 @@
             "open_issues": 3,
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3541,
+            "stars": 3542,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1006,7 +1040,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3122,
+            "stars": 3121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1052,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:54:46.841Z",
+    "last_updated": "2026-09-04T19:40:01.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about rust gamedev resources.",
@@ -1060,7 +1094,7 @@
       "id": 581773809,
       "language": null,
       "license": "MIT",
-      "last_commit": "2024-10-16T02:20:18Z",
+      "last_commit": "2026-09-04T15:34:37Z",
       "open_issues": 1,
       "owner": "NightsWatchGames",
       "repo": "awesome-rust-gamedev",
@@ -1072,7 +1106,7 @@
         "rust"
       ]
     },
-    "original_repository_sha": "8fd9128d2d5e3b9f5eaa6adf6c09b55a35f89af8",
+    "original_repository_sha": "5dcfc42b10906d90cab43f668168d52ca8e55d0e",
     "enhanced_repository": "enhansome/enhansome-rust-gamedev",
     "enhanced_repository_description": null,
     "title": "awesome-rust-gamedev with stars"
