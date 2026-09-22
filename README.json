@@ -19,7 +19,7 @@
             "open_issues": 160,
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33371,
+            "stars": 33374,
             "topics": [
               "android",
               "classroom",
@@ -49,7 +49,7 @@
             "open_issues": 3,
             "owner": "ralfbiedert",
             "repo": "cheats.rs",
-            "stars": 4565,
+            "stars": 4567,
             "topics": [
               "cheatsheet",
               "language",
@@ -76,11 +76,11 @@
             "id": 234798675,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T00:23:41Z",
-            "open_issues": 3429,
+            "last_commit": "2026-09-22T17:21:10Z",
+            "open_issues": 3422,
             "owner": "bevyengine",
             "repo": "bevy",
-            "stars": 48317,
+            "stars": 48336,
             "topics": [
               "bevy",
               "game-development",
@@ -104,11 +104,11 @@
             "id": 178597005,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-20T13:52:05Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-22T19:50:33Z",
+            "open_issues": 60,
             "owner": "FyroxEngine",
             "repo": "Fyrox",
-            "stars": 9561,
+            "stars": 9562,
             "topics": [
               "3d",
               "3d-engine",
@@ -140,7 +140,7 @@
             "open_issues": 36,
             "owner": "PistonDevelopers",
             "repo": "piston",
-            "stars": 4704,
+            "stars": 4703,
             "topics": [
               "modular-game-engine",
               "piston",
@@ -165,7 +165,7 @@
             "open_issues": 72,
             "owner": "ggez",
             "repo": "ggez",
-            "stars": 4693,
+            "stars": 4694,
             "topics": [
               "crates",
               "engine",
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "godot-rust",
             "repo": "gdnative",
-            "stars": 3622,
+            "stars": 3621,
             "topics": [
               "game-development",
               "gamedev",
@@ -289,11 +289,11 @@
             "id": 148686316,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T16:54:08Z",
-            "open_issues": 1256,
+            "last_commit": "2026-09-22T19:53:57Z",
+            "open_issues": 1259,
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 18086,
+            "stars": 18091,
             "topics": [
               "d3d12",
               "gpu",
@@ -344,11 +344,11 @@
             "id": 38607895,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T21:33:08Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-22T09:48:16Z",
+            "open_issues": 87,
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5151,
+            "stars": 5152,
             "topics": [
               "graphics-programming",
               "rust",
@@ -371,8 +371,8 @@
             "id": 59888340,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T19:18:12Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-22T07:18:49Z",
+            "open_issues": 18,
             "owner": "nical",
             "repo": "lyon",
             "stars": 2599,
@@ -451,7 +451,7 @@
             "open_issues": 54,
             "owner": "dimforge",
             "repo": "rapier",
-            "stars": 5757,
+            "stars": 5763,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:17.890Z"
@@ -472,7 +472,7 @@
             "open_issues": 205,
             "owner": "avianphysics",
             "repo": "avian",
-            "stars": 3191,
+            "stars": 3190,
             "topics": [
               "2d",
               "3d",
@@ -505,11 +505,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T23:19:17Z",
+            "last_commit": "2026-09-21T22:14:36Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7576,
+            "stars": 7582,
             "topics": [
               "3d",
               "cube",
@@ -578,11 +578,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T00:23:41Z",
-                "open_issues": 3429,
+                "last_commit": "2026-09-22T17:21:10Z",
+                "open_issues": 3422,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48317,
+                "stars": 48336,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -642,7 +642,7 @@
                 "open_issues": 150,
                 "owner": "dimforge",
                 "repo": "bevy_rapier",
-                "stars": 1590,
+                "stars": 1589,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
@@ -717,7 +717,7 @@
                 "open_issues": 39,
                 "owner": "Leafwing-Studios",
                 "repo": "leafwing-input-manager",
-                "stars": 964,
+                "stars": 963,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:59:17.890Z"
@@ -780,7 +780,7 @@
                 "open_issues": 48,
                 "owner": "djeedai",
                 "repo": "bevy_hanabi",
-                "stars": 1407,
+                "stars": 1406,
                 "topics": [
                   "bevy",
                   "bevy-plugin",
@@ -835,11 +835,11 @@
                 "id": 234798675,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T00:23:41Z",
-                "open_issues": 3429,
+                "last_commit": "2026-09-22T17:21:10Z",
+                "open_issues": 3422,
                 "owner": "bevyengine",
                 "repo": "bevy",
-                "stars": 48317,
+                "stars": 48336,
                 "topics": [
                   "bevy",
                   "game-development",
@@ -874,11 +874,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-20T21:47:36Z",
+            "last_commit": "2026-09-22T05:49:01Z",
             "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59482,
+            "stars": 59499,
             "topics": [
               "awesome",
               "rust"
@@ -902,7 +902,7 @@
             "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24952,
+            "stars": 24955,
             "topics": [
               "game",
               "game-development",
@@ -930,7 +930,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17340,
+            "stars": 17347,
             "topics": [
               "art",
               "awesome",
@@ -968,7 +968,7 @@
             "open_issues": 3,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8700,
+            "stars": 8701,
             "topics": [
               "cpp",
               "csharp",
@@ -1040,7 +1040,7 @@
             "open_issues": 19,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3137,
+            "stars": 3139,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:07:21.801Z",
+    "last_updated": "2026-09-22T20:13:45.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection about rust gamedev resources.",
